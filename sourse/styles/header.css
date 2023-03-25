@@ -160,7 +160,7 @@ main::before {
 
 main::after {
   margin-left: 20px;
-  width: 95%;
+  width: 91%;
 }
 
 @media (max-width: 768px) {
