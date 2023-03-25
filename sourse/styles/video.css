@@ -1,0 +1,21 @@
+.bgvideo {
+  margin-top: 0px;
+  padding: 10px;
+  width: 100%;
+  height: auto;
+  position: relative;
+  padding-bottom: 0;
+}
+.bgvideo video {
+  border-radius: 50px;
+  padding: 10px;
+  padding-bottom: 0;
+
+  padding-top: 0px;
+  width: 100%;
+  height: auto;
+  /* position: absolute; */
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
